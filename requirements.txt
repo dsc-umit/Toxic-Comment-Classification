@@ -1,0 +1,7 @@
+flask-cors
+flask
+gunicorn
+requests
+scikit-learn
+scipy
+nltk
